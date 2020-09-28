@@ -1,5 +1,6 @@
 # Recover-JPEGS
 ## CS50 Problem
+This problem can be found at OpenCourseWare CS50 
 
 Implement a program that recovers JPEGs from a forensic image, per the below.
 ```
